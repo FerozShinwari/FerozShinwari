@@ -1,14 +1,14 @@
 ### Hi there 👋, Nice to see you
 ___
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=c27e79&Left=true&vCenter=true&width=1000&lines=I+am+Salahuddin+Shinwari;+Expert+Data+Analyst;+Tools+I+Know+about;+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+SQL+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=c27e79&Left=true&vCenter=true&width=1000&lines=I+am+Muhammad+Feroz+Shinwari;+Expert+Data+Analyst;+Tools+I+Know+about;+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+SQL+%7C)](https://git.io/typing-svg)
 
 
 ### 👤 Who I am
 ___
-- I am a Data Analyst, Machine Learning and Deep Learning Engineer, and a Lecturer in Computer Science.
-- Passionate about **Data Science, Artificial Intelligence, and Teaching**  
+- I am a Data Analyst, Machine Learning Expert.
+- Passionate about **Data Science, Artificial Intelligence**  
 - Currently learning **Agent AI And Computer Vision**  
-- Vision: To become a **Data Scientist** and help others unlock the power of data  
+- Vision: To become a **Data Scientist** and help others unlock the power of data.
 
 
 
@@ -63,14 +63,6 @@ ___
   <img src="https://img.shields.io/badge/-Problem%20Solving-DC143C?style=for-the-badge&logo=thinkpad&logoColor=white" />
 </p>
 
-### My Background
-___
-- Completed **30+ freelance projects** in **Data Analysis & Visualization**
-- Completed **15+ freelance projects** in **UI/UX and Wordpress**
--  Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CD033)  
-- Lifelong learner: always exploring **AI, statistics, and emerging technologies**  
-
-
 ### Languages & Libraries I Work With  
 ___
 <p align="left">
@@ -80,18 +72,6 @@ ___
   <img src="https://img.shields.io/badge/-Seaborn-0099CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-
-### Databases & Web Development 
-___
-<p align="left">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ### Tools I Use 
@@ -127,10 +107,8 @@ ___
 ###  Social Media Handles
 ___
 <p align="left">
-<a href="https://www.linkedin.com/in/salah-ud-din-63733426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@CD033"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://x.com/Mrsalah55627337?t=vHnvdbbGm9xUnWqt5Kyyuw&s=08 "><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:mr.salah033@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/imferoz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:imferoz265@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ###  GitHub Stats
@@ -140,28 +118,6 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&langs_count=6&card_width=320" alt="languages" width="41%" />
 </p>
 
-###  Fun Facts  
-___
-<p>
-  <!-- Watching Dramas -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4370/4370978.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  I enjoy watching <b>Turkish history dramas</b>  
-  <br clear="left"><br>
-
-  <!-- Reading Books -->
-  <img src="https://cdn-icons-png.flaticon.com/512/29/29302.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  Read About <b>Data Analysis, Visualization, Data Science, philosophy   </b>  
-  <br clear="left"><br>
-
-  <!-- Exploring New Tech -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" height="50" align="left" style="margin-right:15px;"/>
-  Love to <b>Explore New Technologies, Ideas & Play With Data</b>  
-  <br clear="left"><br>
-
-  <!-- Coffee + Coding -->
-   <img src="https://cdn-icons-png.flaticon.com/512/9023/9023831.png" height="50" align="left" style="margin-right:15px;"/>  
-  <b>Tea + Coding = Perfect day</b>  
-  <br clear="left"><br>
 
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=false&vCenter=true&width=600&lines=Always+Curious+%F0%9F%92%AC;Lifelong+Learner+%F0%9F%93%9A;Data+Lover+%F0%9F%93%8A;Tech+Explorer+%F0%9F%8C%8D" alt="Typing Animation"/>  
